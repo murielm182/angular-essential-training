@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
         BrowserModule
     ], //other angular modules you need
     declarations: [
-        AppComponent
+        AppComponent 
     ], //to make compnents directives and pipes
     bootstrap: [AppComponent]  // root module for knowing the entry point
 })
